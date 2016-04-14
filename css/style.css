@@ -1,0 +1,16 @@
+body {
+  margin: 20px;
+}
+
+h1 {
+  font-size: 2em;
+}
+
+button {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+hr {
+  margin: 0;
+}
